@@ -6,6 +6,6 @@ Este es el código que se usó en el directo del [canal de Twitch de MrVizious](
 
 La grabación del directo se puede encontrar en [Twitch](https://www.twitch.tv/videos/1475862164) y en [Youtube](https://youtu.be/c2ISvBEOkX4).
 
-![image](https://user-images.githubusercontent.com/38861496/164990193-c2323d0b-99fb-4bae-8b1d-2492ede2a107.png)
+![image](https://github.com/MrVizious/Stream-Among_Us_en_PI/blob/main/readme-files/result.png)
 
-![](https://github.com/MrVizious/Stream-Cardioide/blob/main/readme-files/example.gif)
+![](https://github.com/MrVizious/Stream-Among_Us_en_PI/blob/main/readme-files/example.gif)
